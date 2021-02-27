@@ -22,7 +22,7 @@ normLength = 5;
 lambda = 0.7;
 % Start propagation plane:
 % Should be 11 as this is the annotated one:
-startSlice = 6;
+startSlice = 11;
 
 % input images dir:
 dirPath = 'data/';
